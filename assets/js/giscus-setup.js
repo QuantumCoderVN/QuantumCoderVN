@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "QuantumCoderVN/QuantumCoderVN",
+    "data-repo": "QuantumCoderVN/QuantumCoderVN.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
