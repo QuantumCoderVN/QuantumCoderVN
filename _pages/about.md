@@ -2,41 +2,57 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  
+    <span style="font-weight:600;">🎓 Affiliations:</span> Université Grenoble Alpes (UGA), France &nbsp;|&nbsp; Quantum AI Lab, Phenikaa University, Vietnam  
+    <br><span style="font-weight:600;">📍 Address:</span> 54 Bd Joseph Vallier, 38000 Grenoble, France  
+    <br><span style="font-weight:600;">✉️ Contacts:</span> (+33) 7 52 75 77 20 &nbsp;|&nbsp;
+    <a href="mailto:Nhu-Duc.Dinh@etu.univ-grenoble-alpes.fr" style="color:#0073e6; text-decoration:none;">Nhu-Duc.Dinh@etu.univ-grenoble-alpes.fr</a>  
+    <br><span style="font-weight:600;">💡 Motto:</span> <em>“Connecting science, technology, and creativity to understand the quantum world.”</em>
+ 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>(+33) 7 52 75 77 20</p>
-    <p>54 Bd Joseph Vallier</p>
-    <p>38000 Grenoble 
-    <p>France</p>
+  image_circular: false   # giữ khung chữ nhật tự nhiên, không bo tròn
+  more_info: ""           # bỏ phần thông tin lặp lại dưới ảnh
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-<!-- I am a student. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p style="font-size:1.2rem; font-weight:500; text-align:center; color:#2c3e50; margin-bottom:1.5em;">
+✨ Exploring the boundaries between physics and intelligence ✨
+</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi! I’m currently an undergraduate student in **Physics** at **UFR PhiTEM, Université Grenoble Alpes (UGA), France**.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+My academic interests lie at the intersection of **physics**, **mathematics**, **computer science**, and **artificial intelligence** — with a special passion for **quantum computation**.  
 
-Hi! I’m currently an undergraduate student in Physics at UFR PhiTEM, Université Grenoble Alpes (UGA), France.
-My academic interests lie at the intersection of physics, mathematics, computer science, artificial intelligence, and especially quantum computation.
+I am a **research intern** at the **Quantum AI Lab, Phenikaa University (Vietnam)**, where I work on **Quantum Machine Learning** and **superconducting qubit control and readout**.  
 
-I am a research intern at the Quantum AI Lab, Phenikaa University (Vietnam), where I work on Quantum Machine Learning and Superconducting Qubit control and readout.
+Beyond academics, I’m passionate about **sports, reading, music, and traveling** — always seeking new ideas and perspectives that connect **science and life**.  
 
-Beyond academics, I’m passionate about sports, reading, music, and traveling — always seeking new ideas and perspectives that connect science and life.
+---
+
+### 🧠 Research Interests
+- Quantum Machine Learning and Hybrid Quantum–Classical Models  
+- Superconducting Qubit Control and Quantum Hardware Optimization  
+- Mathematical Modeling and Computational Physics  
+- Artificial Intelligence and Algorithmic Thinking  
+
+---
+
+<blockquote style="border-left:3px solid #0073e6; padding-left:1em; color:#555; margin-top:2em;">
+  “The beauty of physics lies not only in equations, but in the curiosity that drives them.”
+</blockquote>
