@@ -7,14 +7,16 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/publications.md
 
 <!-- Bibsearch Feature -->
 
+{% comment %}
 {% include bib_search.liquid %}
-
 <div class="publications">
-
 {% bibliography %}
-
 </div>
+{% endcomment %}
+
+<p>No publications yet. Please check back later!</p>
+
