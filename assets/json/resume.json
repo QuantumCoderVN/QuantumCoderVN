@@ -37,45 +37,64 @@
     ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  
   "education": [
     {
-    "institution": "Université Grenoble Alpes (UGA)",
-    "location": "Grenoble, France",
-    "url": "https://www.univ-grenoble-alpes.fr/",
-    "area": "Physics (Fundamental and Applied Physics Track)",
-    "studyType": "Bachelor's Degree",
-    "startDate": "2023-09-01",
-    "endDate": "",
-    "score": "",
-    "courses": [
-      "Quantum Mechanics",
-      "Mathematical Physics",
-      "Statistical Physics",
-      "Computational Modeling"
-    ]
-  }
-  ],
-  "awards": [
+      "institution": "Université Grenoble Alpes (UGA)",
+      "location": "Grenoble, France",
+      "url": "https://www.univ-grenoble-alpes.fr/",
+      "area": "Physics (Fundamental and Applied Physics Track)",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Quantum Mechanics",
+        "Mathematical Physics",
+        "Statistical Physics",
+        "Computational Modeling"
+      ],
+      "description": "Currently pursuing a Bachelor's degree in Physics at Université Grenoble Alpes."
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "INSA Centre Val de Loire",
+      "location": "Blois, France",
+      "url": "https://www.insa-centrevaldeloire.fr/",
+      "area": "Industrial Systems Engineering",
+      "studyType": "Engineering Cycle (Year 3)",
+      "startDate": "2024-09-01",
+      "endDate": "2025-06-30",
+      "description": "Completed the third year of the engineering program specializing in Industrial Systems Engineering."
+    },
+    {
+      "institution": "Hue University of Education & INSA Centre Val de Loire (Joint Program)",
+      "location": "Hue, Vietnam",
+      "url": "https://hueuni.edu.vn/portal/en/index.php/Institutions/hue-university-college-of-education.html",
+      "area": "Engineering Preparatory Cycle (Integrated Program)",
+      "studyType": "Preparatory Program for Engineering Studies",
+      "startDate": "2022-09-01",
+      "endDate": "2024-06-30",
+      "description": "Completed a two-year preparatory program in mathematics, physics, and engineering fundamentals as part of the joint program between Hue University of Education and INSA Centre Val de Loire."
     }
   ],
+
+  "awards": [
+    {
+      "title": "Second Prize  Experimental Physics",
+      "date": "2023-12-3",
+      "awarder": "Vietnam National Student Physics Olympiad 2023",
+      "url": "",
+      "summary": "Awarded Second Prize in the Experimental Physics section at the Vietnam National Student Physics Olympiad 2023."
+    },
+    {
+      "title": "Second Prize  Theoretical Physics (Multiple Choice)",
+      "date": "2023-12-3",
+      "awarder": "Vietnam National Student Physics Olympiad 2023",
+      "url": "",
+      "summary": "Awarded Second Prize in the Theoretical Physics (Multiple Choice) section at the Vietnam National Student Physics Olympiad 2023."
+    }
+  ],
+
   "certificates": [
     {
       "name": "Machine Learning",
@@ -120,90 +139,117 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+
+"skills": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Physics & Engineering",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-atom",
       "keywords": [
         "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Statistical Physics",
+        "Industrial Systems",
+        "Computational Modeling"
+      ]
+    },
+    {
+      "name": "Programming & AI",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "Optimization"
       ]
     }
   ],
+
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "🇻🇳 Vietnamese",
+      "fluency": "Native speaker"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "🇬🇧 English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "🇫🇷 French",
+      "fluency": "Intermediate"
     }
   ],
+
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Physics & Mathematics",
+      "icon": "fa-solid fa-atom",
       "keywords": [
         "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Mathematical Modeling",
+        "Computational Physics"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Machine Learning",
+        "Data Science",
+        "AI Applications in Physics"
+      ]
+    },
+    {
+      "name": "Travel & Culture",
+      "icon": "fa-solid fa-globe",
+      "keywords": [
+        "Exploring new places",
+        "Learning languages",
+        "Cultural exchange"
+      ]
+    },
+    {
+      "name": "Music & Arts",
+      "icon": "fa-solid fa-music",
+      "keywords": [
+        "Guitar",
+        "Piano",
+        "Classical and Modern music"
+      ]
+    },
+    {
+      "name": "Sports & Martial Arts",
+      "icon": "fa-solid fa-dumbbell",
+      "keywords": [
+        "Running",
+        "Football",
+        "Martial arts"
+      ]
+    },
+    {
+      "name": "Reading",
+      "icon": "fa-solid fa-book",
+      "keywords": [
+        "Popular Science",
+        "Philosophy",
+        "Literature"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+
+  
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Hybrid Quantum Convolutional Neural Network for Silicon Force Field Modeling",
+      "summary": "Developing a hybrid Quantum–Classical Convolutional Neural Network (QCNN) model to predict interatomic force fields of silicon systems. The project integrates quantum feature encoding with classical neural architectures to enhance accuracy and computational efficiency in material simulations.",
+      "highlights": [
+        "Quantum Machine Learning",
+        "Force Field Prediction",
+        "Computational Materials Science"
+      ],
+      "startDate": "2023-08-01",
+      "endDate": "",
+      "url": ""
     }
   ]
-}
+  }
